@@ -1,0 +1,428 @@
+    1  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    2  sudo dpkg -i google-chrome-stable_current_amd64.deb
+    3  sudo apt -f install
+    4  clear
+    5  sudo-get install default-jdk
+    6  sudo apd-get install default-jdk
+    7  sudo apt-get install default-jdk
+    8  clear
+    9  java -version
+   10  ip
+   11  ipconfig
+   12  ifconfig
+   13  sudo apt install net-tools
+   14  ifconfig
+   15  clear
+   16  apt-get install git
+   17  clear
+   18  sudo apt install git
+   19  clear
+   20  git --version
+   21  git config --list
+   22  nano ~/.gitconfig
+   23  git config --global user.name "Thobani"
+   24  git config --global user.email "mjiyakhothobani@gmail.com"
+   25  git config --list
+   26  clear
+   27  cleat
+   28  clear
+   29  dotnet
+   30  sudo snap install dotnet-sdk --classic
+   31  ls
+   32  mkdir Hello
+   33  cd Hello/
+   34  dotnet new console
+   35  dotnet run
+   36  ls
+   37  cd Hello
+   38  ls
+   39  dotnet run
+   40  /bin/python3 /home/thobani/python/take_home_test.py
+   41  git add .
+   42  git commit -m "updated website"
+   43  git push origin main
+   44  git commit -m "updated website"
+   45  git push origin main
+   46  https://github.com/216037150/portfolio.git
+   47  git add .
+   48  git commit -m "updated website" 
+   49  git push origin main
+   50  clear
+   51  python 3
+   52  python3
+   53  sudo apt update
+   54  clear
+   55  sudo apt install python3
+   56  clear
+   57  python3 --version
+   58  echo $PATH
+   59  export PATH=/usr/bin:$PATH
+   60  export PATH="/path/to/python/directory:$PATH"
+   61  /usr/bin/python -u "/home/thobani/bootcamp/task1.py"
+   62  python3 -u "/home/thobani/bootcamp/task1.py"
+   63  printenv > "/tmp/tmp-9719jFW7lRukjxTP.txt"
+   64  /bin/python3
+   65  /bin/python3 /home/thobani/bootcamp/task2.py
+   66  /bin/python3
+   67  clear
+   68  /bin/python3 /home/thobani/bootcamp/task2.py
+   69  /bin/python3 /home/thobani/bootcamp/task3.py
+   70  clear
+   71  /bin/python3 /home/thobani/bootcamp/task3.py
+   72  /bin/python3 /home/thobani/bootcamp/task4.py
+   73  clear
+   74  /bin/python3 /home/thobani/bootcamp/task4.py
+   75  clear
+   76  /bin/python3 /home/thobani/bootcamp/task4.py
+   77  clear
+   78  /bin/python3 /home/thobani/bootcamp/task5.py
+   79  /bin/python3 /home/thobani/bootcamp/task4.py
+   80  clear
+   81  /bin/python3 /home/thobani/bootcamp/task4.py
+   82  /bin/python3 /home/thobani/bootcamp/task6.py
+   83  /bin/python3
+   84  /bin/python3 /home/thobani/bootcamp/task7.py
+   85  clear
+   86  /bin/python3 /home/thobani/bootcamp/task7.py
+   87  /bin/python3 /home/thobani/bootcamp/task8.py
+   88  clear
+   89  /bin/python3 /home/thobani/bootcamp/task8.py
+   90  clear
+   91  /bin/python3 /home/thobani/bootcamp/task8.py
+   92  /bin/python3 /home/thobani/bootcamp/task9.py
+   93  /bin/python3 /home/thobani/bootcamp/task10.py
+   94  pwd
+   95  ls
+   96  cd bootcamp/
+   97  git clone https://github.com/Umuzi-org/Thobani-Mjiyakho-394-bash-for-bootcamp-.git
+   98  clear
+   99  ls
+  100  git clone https://github.com/Umuzi-org/Thobani-Mjiyakho-394-bash-for-bootcamp-.git
+  101  clear
+  102  ls /
+  103  ls
+  104  man
+  105  man man
+  106  dir man
+  107  man dir
+  108  cd Thobani-Mjiyakho-394-bash-for-bootcamp--main/
+  109  ls
+  110  git status
+  111  git status
+  112  git add question_1.md 
+  113  git commit -m "question1"
+  114  git push
+  115  git status
+  116  git add question_1.md
+  117  git add question_2.md
+  118  git status
+  119  git commit -m "updated 1 and question 2"
+  120  git push
+  121  clear
+  122  git add .
+  123  git status
+  124  git commit -m "sumbmit q3 to q13"
+  125  git push
+  126  pip install pytest
+  127  sudo ap [2~t
+  128  pip install pytest
+  129  sudo apt install python3-pip
+  130  clear
+  131  pip install pytest
+  132  clear
+  133  /bin/python3
+  134  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task1.py
+  135  /bin/python3
+  136  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task1.py
+  137  /bin/python3
+  138  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task2.py
+  139  clear
+  140  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task2.py
+  141  git checkout main
+  142  git pull
+  143  git checkout -b task/3
+  144  git add task3.py
+  145  git commit -m "completed task3"
+  146  git push origin task/3
+  147  git add .
+  148  git status
+  149  git commit -m "completed task2.py"
+  150  git push origin task/2
+  151  clear
+  152  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task3.py
+  153  clear
+  154  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task3.py
+  155  git add .
+  156  git commit -m "task1.py"
+  157  git push origin task/1
+  158  git checkout main
+  159  git pull
+  160  git checkout -b task/2
+  161  git branch --show-current
+  162  clear
+  163  git checkout main
+  164  git pull
+  165  git checkout -b task/1
+  166  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task4.py
+  167  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task5.py
+  168  clear
+  169  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task5.py
+  170  clear
+  171  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task5.py
+  172  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task6.py
+  173  git checkout main
+  174  git pull
+  175  git checkout -b task/4
+  176  git add task4.py
+  177  git commit "complited task 4"
+  178  git commit -m "completed task 4"
+  179  git push origin task/4
+  180  clear
+  181  git status
+  182  git commit -m "completed task5"
+  183  git push origin task/5
+  184  clear
+  185  git checkout main
+  186  git pull
+  187  git checkout -b task/5
+  188  git add task5.py
+  189  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task6.py
+  190  clear
+  191  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task7.py
+  192  clear
+  193  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task7.py
+  194  clear
+  195  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python/task7.py
+  196  git checkout main
+  197  git pull
+  198  git checkout -b task/6
+  199  git add task6.py
+  200  git commit -m "completed task 6"
+  201  git push origin task/6
+  202  clear
+  203  git checkout main
+  204  git pull
+  205  git checkout -b task/7
+  206  git add task7.py
+  207  git commit -m "done with task 7"
+  208  git push origin task/7
+  209  cleat
+  210  clear
+  211  /bin/python3 /home/thobani/bootcamp_classes/classes_instances.py
+  212  clear
+  213  /bin/python3 /home/thobani/bootcamp_classes/classes_instances.py
+  214  /bin/python3
+  215  /bin/python3 /home/thobani/Thobani-Mjiyakho-223-person-python/person.py
+  216  git add .
+  217  git commit -m "done with person.py"
+  218  git push origin main
+  219  git branch
+  220  git branch -a
+  221  git branch -d thmjiya022-patch-1
+  222  git push origin --delete thmjiya022-patch-1
+  223  git branch -a
+  224  clear
+  225  ls
+  226  rm important.md 
+  227  clear
+  228  git add -A
+  229  git commit -m "Deleted important.md"
+  230  git push origini main
+  231  git push origin main
+  232  clear
+  233  git checkout -b important-branch
+  234  git add important.md
+  235  git commit -m "important"
+  236  git push origin important-branch
+  237  clear
+  238  git branch -a
+  239  clear
+  240  git rm person.py 
+  241  git commit -m "deleted person.py"
+  242  git push origin main
+  243  clear
+  244  /bin/python3 /home/thobani/Thobani-Mjiyakho-223-person-python-1/person.py
+  245  clear
+  246  /bin/python3 /home/thobani/Thobani-Mjiyakho-223-person-python-1/person.py
+  247  git checkout -b "person/task"
+  248  git add person.py 
+  249  git commit -m "done with person.py"
+  250  git push origin person/task
+  251  /bin/python3 /home/thobani/unit_testing/ls24_module_test.py
+  252  python pytest ls24_module_test.py
+  253  pyhon3 pytest ls24_module_test.py 
+  254  python3 pytest ls24_module_test.py 
+  255  pytest ls24_module_test.py
+  256  clear
+  257  pytest ls24_module_test.py
+  258  clear
+  259  pytest ls24_module_test.py
+  260  clear
+  261  pytest ls24_module_test.py
+  262  clear
+  263  pytest ls24_module_test.py
+  264  clear
+  265  pytest ls24_module_test.py
+  266  git add .
+  267  git status
+  268  git add .
+  269  git status
+  270  git commit -m "Test Driven Development"
+  271  git push origin main
+  272  clear
+  273  CLEAR
+  274  /bin/python3 /home/thobani/Thobani-Mjiyakho-963-contentitem-/practise.py
+  275  git status
+  276  git add .
+  277  git commit -m "Added question headers to each file"
+  278  git push 
+  279  /bin/python3 /home/thobani/python_problems/practise.py
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd Thobani-Mjiyakho-219-level-1-programming-katas-python-1
+  284  ls
+  285  clear
+  286  git branch -d task/1
+  287  git branch -a
+  288  git push origin --detele task/1
+  289  clear
+  290  git push origin --delete task/1
+  291  git push origin --delete task/2
+  292  git push origin --delete task/3
+  293  git push origin --delete task/4
+  294  git push origin --delete task/5
+  295  git push origin --delete task/6
+  296  git push origin --delete task/7
+  297  clear
+  298  git rm task1.py
+  299  git commit -m "Deleted task1.py"
+  300  git push origin main
+  301  git rm task2.py
+  302  git rm task3.py
+  303  git rm task4.py
+  304  git rm task5.py
+  305  git rm task6.py
+  306  git rm task7.py
+  307  git commit -m "delete all tasks from main"
+  308  git push origin main
+  309  clear
+  310  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python-1/task1.py
+  311  git checkout -b task/1
+  312  git add task1.py
+  313  git commit -m "task1"
+  314  git push origin task/1
+  315  /bin/python3 /home/thobani/Thobani-Mjiyakho-219-level-1-programming-katas-python-1/task2.py
+  316  git checkout -b task/2
+  317  git add task2.py
+  318  git commit -m "task2"
+  319  git push origin task/2
+  320  clear
+  321  git checkout main
+  322  clear
+  323  git checkout -b task/3
+  324  git add task3.py
+  325  git commit -m "task3"
+  326  git push origin task/3
+  327  clear
+  328  git checkout main
+  329  clear
+  330  git checkout -b task/4
+  331  git add task4.py
+  332  git commit -m "task4"
+  333  git push origin task/4
+  334  clear
+  335  git checkout main
+  336  clear
+  337  git checkout -b task/5
+  338  git add task5.py
+  339  git commit -m "task5"
+  340  git push origin task/5
+  341  clear
+  342  git checkout main
+  343  clear
+  344  git checkout -b task/6
+  345  git add .
+  346  git status
+  347  git commit -m "task6"
+  348  git push origin task/6
+  349  clear
+  350  git checkout main
+  351  clear
+  352  git checkout -b task/7
+  353  git add .
+  354  git status
+  355  git commit -m "task7"
+  356  git push origin task/7
+  357  clear
+  358  git checkout main
+  359  clear
+  360  git checkout task/2
+  361  git rm task1.py
+  362  git commit -m "task 1"
+  363  git push origin task/2
+  364  clear
+  365  git branch -a
+  366  git checkout person/task
+  367  clear
+  368  ls
+  369  git add .
+  370  git commit -m "Improved my validation"
+  371  git push origin person/task
+  372  git add .
+  373  git status
+  374  git commit -m "modified q6 and q4"
+  375  git push origin main
+  376  clear
+  377  ls
+  378  cd git-basic-exercises/
+  379  ls -a
+  380  clear
+  381  git init
+  382  ls -a
+  383  git status
+  384  touch README.md
+  385  ls -a
+  386  git status
+  387  git log
+  388  git README.md
+  389  git add README.md 
+  390  git status
+  391  git commit -m "initial commit"
+  392  git log
+  393  nano README.md
+  394  cat README.md 
+  395  git status
+  396  git commit -m "second commit"
+  397  git add .
+  398  git commit -m "second commit"
+  399  git status
+  400  nano README.md
+  401  cat README.md 
+  402  git status
+  403  git add .
+  404  git commit -m "third commit"
+  405  git log
+  406  q
+  407  git checkout 61e47d706f9f96566e417f760cc38b052703197c
+  408  cat README.md 
+  409  git checkout main
+  410  git branch -a
+  411  git checkout master
+  412  cat README.md 
+  413  git branch milkshake-flavours
+  414  git branch
+  415  git checkout milkshake-flavours
+  416  git branch
+  417  nano milkshakes.md
+  418  cat milkshakes.md 
+  419  git status
+  420  git add milkshakes.md 
+  421  git commit -m "added initial flavours"
+  422  git log
+  423  git checkout master 
+  424  git branch history
+  425  git checkout history 
+  426  git log
+  427  git branch -a
+  428  history > history.txt
